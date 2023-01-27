@@ -1,10 +1,13 @@
 # Hexo Demo Naive
 
+![license](https://img.shields.io/github/license/Chenrt-ggx/HexoDemoNaive)
+![version](https://img.shields.io/github/package-json/v/Chenrt-ggx/HexoDemoNaive)
+
 > I think config.yml is much better looking than \_config.yml.
 
 This is a dummy Hexo site for [hexo theme naive](https://github.com/Chenrt-ggx/HexoThemeNaive) unit test.
 
-Modify from [here](https://github.com/hexojs/hexo-theme-unit-test), with unsupported page, Gallery Post and Excerpts removed.
+Modified from [here](https://github.com/hexojs/hexo-theme-unit-test), with unsupported page, Gallery Post and Excerpts removed.
 
 ## Checklist
 
@@ -26,5 +29,4 @@ Modify from [here](https://github.com/hexojs/hexo-theme-unit-test), with unsuppo
 
 - Display post categories and tags.
 - Display the post date.
-- Support `photo` and `link` layout.
 - Posts without title should be accessible.
