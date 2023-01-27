@@ -1,3 +1,5 @@
-title: {{ title }}
+---
+title: { { title } }
+categories:
 tags:
 ---
