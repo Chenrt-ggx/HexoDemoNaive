@@ -53,7 +53,7 @@ pagination_dir: page
 #  Theme
 theme: naive
 generate_html: true
-favicon: HexoDemoNaive/favicon.svg
+favicon: favicon.svg
 avatar: /HexoDemoNaive/assets/avatar.svg
 bgm: /HexoDemoNaive/assets/standard-jazz-bars.mp3
 github: https://github.com/Chenrt-ggx/HexoDemoNaive
