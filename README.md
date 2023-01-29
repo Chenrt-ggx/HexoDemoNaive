@@ -5,7 +5,7 @@
 
 > I think config.yml is much better looking than \_config.yml.
 
-This is a dummy Hexo site for [hexo theme naive](https://github.com/Chenrt-ggx/HexoThemeNaive) unit test.
+This is a dummy Hexo site for [Hexo Theme Naive](https://github.com/Chenrt-ggx/HexoThemeNaive) ([Documentation Here](https://chenrt-ggx.github.io/category/Hexo/1)) unit test.
 
 Modified from [here](https://github.com/hexojs/hexo-theme-unit-test), with unsupported page, Gallery Post and Excerpts removed.
 
