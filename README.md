@@ -1,5 +1,6 @@
 # Hexo Demo Naive
 
+![category](https://img.shields.io/badge/hexo-Deploy-blueviolet)
 ![license](https://img.shields.io/github/license/Chenrt-ggx/HexoDemoNaive)
 ![version](https://img.shields.io/github/package-json/v/Chenrt-ggx/HexoDemoNaive)
 
